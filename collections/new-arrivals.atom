@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amazingfloralwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amazingfloralwholesale.ca/collections/new-arrivals.atom"/>
+  <title>Amazing Floral Wholesale Ltd.</title>
+  <updated>2021-08-16T07:25:35-06:00</updated>
+  <author>
+    <name>Amazing Floral Wholesale Ltd.</name>
+  </author>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628043522114</id>
+    <published>2021-08-16T07:25:35-06:00</published>
+    <updated>2021-08-16T07:25:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-4-x6-4h-black-ceramic-pot"/>
+    <title>6.4&quot; x6 4&quot;H Black Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce945-156.jpg?v=1629120355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            9.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE945-156</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628043522114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.55</s:price>
+      <s:sku>CE945-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628042473538</id>
+    <published>2021-08-16T07:24:30-06:00</published>
+    <updated>2021-08-16T07:24:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-4-x6-4h-white-ceramic-pot"/>
+    <title>6.4&quot; x6 4&quot;H White Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce945-155.jpg?v=1629120315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            9.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE945-155</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628042473538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.55</s:price>
+      <s:sku>CE945-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628042244162</id>
+    <published>2021-08-16T07:23:19-06:00</published>
+    <updated>2021-08-16T07:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x6-8h-matte-black-ceramic-pot"/>
+    <title>4&quot; x6.8&quot;H Matte Black Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce94-156.jpg?v=1629120225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE94-156</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628042244162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku>CE94-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628041621570</id>
+    <published>2021-08-16T07:21:26-06:00</published>
+    <updated>2021-08-16T07:21:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x6-8h-matte-white-ceramic-pot"/>
+    <title>4&quot; x6.8&quot;H Matte White Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce94-155.jpg?v=1629120149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE94-155</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628041621570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku>CE94-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6585992642626</id>
+    <published>2021-05-29T08:58:48-06:00</published>
+    <updated>2021-05-29T08:58:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-1-x-7-2"/>
+    <title>4.1&quot; x 7.2&quot; Dolomite Pot - Gertie</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce60-405.jpg?v=1622300319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>Complimented by Audrey, Hugo, Maggie, and Agatha</li>
+<li>SKU CE60-405</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6585992642626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>CE60-405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583505780802</id>
+    <published>2021-05-27T08:11:00-06:00</published>
+    <updated>2021-05-27T08:11:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-round-watermelon-gathering-vase"/>
+    <title>8&quot; Round Watermelon Gathering Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gp1774.jpg?v=1621716796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GP1774</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583505780802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>GP1774</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583515447362</id>
+    <published>2021-05-22T15:47:08-06:00</published>
+    <updated>2021-05-22T15:47:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/11-rectangular-red-metal-wagon-planter"/>
+    <title>11&quot; Rectangular Red Metal Wagon Planter</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/m12290.jpg?v=1621720029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU M12290</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583515447362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>M12290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583515185218</id>
+    <published>2021-05-22T15:45:12-06:00</published>
+    <updated>2021-05-22T15:45:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/10-round-red-roman-column-glass-vase"/>
+    <title>10&quot; Round Red Roman Column Glass Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/g71283.jpg?v=1621719912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            8.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G71283</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583515185218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.65</s:price>
+      <s:sku>G71283</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583515021378</id>
+    <published>2021-05-22T15:42:52-06:00</published>
+    <updated>2021-05-22T15:42:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-round-metallic-red-glass-bubble-bowl"/>
+    <title>6&quot; Round Metallic Red Glass Bubble Bowl</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/G5250.jpg?v=1621719773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G5250</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583515021378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>G5250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583514497090</id>
+    <published>2021-05-22T15:40:09-06:00</published>
+    <updated>2021-05-22T15:40:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-75-x-4-75-red-clear-glass-cube"/>
+    <title>4.75&quot; x 4.75&quot; Red Clear Glass Cube</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/g012rd.jpg?v=1621719658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            4.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G012RD</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583514497090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.35</s:price>
+      <s:sku>G012RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583514071106</id>
+    <published>2021-05-22T15:39:36-06:00</published>
+    <updated>2021-05-22T15:39:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x-4-red-clear-glass-cube"/>
+    <title>4&quot; x 4&quot; Red Clear Glass Cube</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/g443.jpg?v=1621719577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G443</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583514071106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.10</s:price>
+      <s:sku>G443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583513579586</id>
+    <published>2021-05-22T15:37:43-06:00</published>
+    <updated>2021-05-22T15:37:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-gold-mercury-ginger-jar-vase"/>
+    <title>6&quot; Gold Mercury Ginger Jar Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gm732.jpg?v=1621719464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GM732</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583513579586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>GM732</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583512694850</id>
+    <published>2021-05-22T15:33:52-06:00</published>
+    <updated>2021-05-22T15:33:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/copy-of-7-5-round-european-glass-julia-vase"/>
+    <title>Copy of 7.5&quot; Round European Glass Julia Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gp15.jpg?v=1621719246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GP15</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583512694850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>GP15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583512301634</id>
+    <published>2021-05-22T15:33:01-06:00</published>
+    <updated>2021-05-22T15:33:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/7-round-european-glass-lily-vase"/>
+    <title>7&quot; Round European Glass Lily Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/GP12.jpg?v=1621719182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GP12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583512301634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>GP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583512137794</id>
+    <published>2021-05-22T15:29:26-06:00</published>
+    <updated>2021-05-22T15:29:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-25-rectangle-ribbed-galvanized-planter"/>
+    <title>6.25&quot; Rectangle Ribbed Galvanized Planter</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/nr6173.jpg?v=1621718996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU NR6173</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583512137794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>NR6173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583512072258</id>
+    <published>2021-05-22T15:27:52-06:00</published>
+    <updated>2021-05-22T15:27:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/10-gold-textured-glass-cylinder"/>
+    <title>10&quot; Gold Textured Glass Cylinder</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/nr6053.jpg?v=1621718907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU NR6053</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583512072258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.45</s:price>
+      <s:sku>NR6053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583511941186</id>
+    <published>2021-05-22T15:25:38-06:00</published>
+    <updated>2021-05-22T15:25:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/10-round-periwinkle-blue-ribbed-vase"/>
+    <title>10&quot; Round Periwinkle Blue Ribbed Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/g2139.jpg?v=1621718766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G2139</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583511941186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>G2139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583511613506</id>
+    <published>2021-05-22T15:24:07-06:00</published>
+    <updated>2021-05-22T15:24:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-frosted-lilac-enzo-glass-vase"/>
+    <title>8&quot;  Frosted Lilac Enzo Glass Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gf5059.jpg?v=1621718683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GF5059</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583511613506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>GF5059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583511253058</id>
+    <published>2021-05-22T15:22:36-06:00</published>
+    <updated>2021-05-22T15:22:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-square-ribbed-galvanized-vsae"/>
+    <title>8&quot; Square Ribbed Galvanized Vsae</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/nr6175.jpg?v=1621718594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU NR6175</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583511253058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>NR6175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583511121986</id>
+    <published>2021-05-22T15:21:34-06:00</published>
+    <updated>2021-05-22T15:21:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/7-25-round-flamingo-taper-glass-vase"/>
+    <title>7.25&quot; Round Flamingo Taper Glass Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gp1750.jpg?v=1621718495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            5.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU GP1750</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583511121986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.60</s:price>
+      <s:sku>GP1750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583510696002</id>
+    <published>2021-05-22T15:19:13-06:00</published>
+    <updated>2021-05-22T15:19:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-5-mia-vase"/>
+    <title>6.5&quot; Mia Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gf2241.jpg?v=1621718354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>2" OP</li>
+<li>Priced Each</li>
+<li>SKU GF2241</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583510696002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>GF2241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583510204482</id>
+    <published>2021-05-22T15:17:19-06:00</published>
+    <updated>2021-05-22T15:17:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-strawberry-flush-enzo-vase"/>
+    <title>8&quot; Strawberry Flush Enzo Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gf2039.jpg?v=1621718240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced Each</li>
+<li>SKU GF2039</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583510204482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>GF2039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583509778498</id>
+    <published>2021-05-22T15:15:11-06:00</published>
+    <updated>2021-05-22T15:15:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-75-round-green-ribbed-jenna-glass-vase"/>
+    <title>8.75&quot; Round Green Ribbed Jenna Glass Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/g3523.jpg?v=1621718112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU G3523</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583509778498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>G3523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583509188674</id>
+    <published>2021-05-22T15:12:21-06:00</published>
+    <updated>2021-05-22T15:12:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-25-square-ribbed-galvanized-pot"/>
+    <title>4.25&quot; Square Ribbed Galvanized Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/nr6174.jpg?v=1621717942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            4.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU NR6174</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583509188674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.65</s:price>
+      <s:sku>NR6174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6583508762690</id>
+    <published>2021-05-22T15:09:46-06:00</published>
+    <updated>2021-05-22T15:09:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/11-geo-claret-hot-pink-vase"/>
+    <title>11&quot; Geo Claret/Hot Pink Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gv2016.jpg?v=1621717787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Assorted</li>
+<li>Priced each</li>
+<li>SKU GV2016</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6583508762690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>GV2016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

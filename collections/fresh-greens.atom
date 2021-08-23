@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amazingfloralwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amazingfloralwholesale.ca/collections/fresh-greens.atom"/>
+  <title>Amazing Floral Wholesale Ltd.</title>
+  <updated>2020-03-30T11:23:19-06:00</updated>
+  <author>
+    <name>Amazing Floral Wholesale Ltd.</name>
+  </author>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4494049607746</id>
+    <published>2020-03-30T11:23:19-06:00</published>
+    <updated>2020-03-30T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/roebellini"/>
+    <title>Roebellini</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture_a9c1d197-8d48-454f-a2f2-502ae6b36b45.jpg?v=1585589100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced per bunch</li>
+<li>Call to confirm quantity available</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU ROEBELLINI</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4494049607746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ROEBELLINI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4493189840962</id>
+    <published>2020-03-29T08:24:28-06:00</published>
+    <updated>2020-03-29T08:24:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/rosemary"/>
+    <title>Rosemary</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture_68f235b6-e759-41ff-9d8b-2fdfa7576454.jpg?v=1585494946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced per bunch</li>
+<li>Call to confirm quantity</li>
+<li>Call to confirm availability</li>
+<li>Call to arrange pick up or delivery</li>
+<li>SKU ROSEMARY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4493189840962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ROSEMARY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492591628354</id>
+    <published>2020-03-28T14:15:26-06:00</published>
+    <updated>2020-03-28T14:15:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/sheet-moss"/>
+    <title>Sheet Moss</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture_c7661929-cee5-4f6b-9ddd-c6cdda47d8ba.jpg?v=1585426638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>Priced per box<br>
+</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU SHEETMOSS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492591628354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SHEETMOSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492590448706</id>
+    <published>2020-03-28T14:12:38-06:00</published>
+    <updated>2020-03-28T14:12:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/sphagnum-moss"/>
+    <title>Sphagnum Moss</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Attachment-5_00B.jpg?v=1585426481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>Priced per bag<br>
+</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU MOSSBC</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492590448706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>MOSSBC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492589563970</id>
+    <published>2020-03-28T14:09:54-06:00</published>
+    <updated>2020-03-28T14:09:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/mood-moss"/>
+    <title>Mood Moss</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture_423e2698-1970-46e4-be34-e4978b452ab5.jpg?v=1585426329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>Priced per box<br>
+</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU MOODMOSS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492589563970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>MOODMOSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492581175362</id>
+    <published>2020-03-28T13:53:11-06:00</published>
+    <updated>2020-03-28T13:53:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/flexigrass"/>
+    <title>Flexigrass</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture_d2561fd2-8dab-4c3e-800c-70aa857c3cb6.jpg?v=1585425285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>Priced per bunch<br>
+</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU FLEXI</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492581175362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>FLEXI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492485623874</id>
+    <published>2020-03-28T11:13:49-06:00</published>
+    <updated>2020-03-28T11:13:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/carolina-sapphire"/>
+    <title>Carolina Sapphire</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Attachment-2_00F_07db0507-6c25-4521-bebb-2d36867a1135.jpg?v=1585415707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced per bunch<br>
+</li>
+<li>A type of cedar<br>
+</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU CAROLINA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492485623874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CAROLINA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492479660098</id>
+    <published>2020-03-28T11:00:04-06:00</published>
+    <updated>2020-03-28T11:00:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/aspidistra-milky-way"/>
+    <title>Aspidistra Milky Way</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-mwa.jpg?v=1585414818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>10 stems per bunch</li>
+<li>Priced per bunch</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU ASPMW</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492479660098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ASPMW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4492477825090</id>
+    <published>2020-03-28T10:56:01-06:00</published>
+    <updated>2020-03-28T10:56:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/aspidistra-variegated"/>
+    <title>Aspidistra Variegated</title>
+    <s:type>Fresh flowers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-vas.jpg?v=1585414740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh flowers<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>10 stems per bunch</li>
+<li>Priced per bunch</li>
+<li>Call for quantities<br>
+</li>
+<li>Call to confirm price</li>
+<li>Call to arrange Calgary pick up or delivery</li>
+<li>SKU ASPVARI</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4492477825090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ASPVARI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1989161418818</id>
+    <published>2019-08-07T09:15:59-06:00</published>
+    <updated>2019-08-07T09:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/monstera-2"/>
+    <title>Monstera Small</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-mmon_95968d95-84cf-4ffb-b7db-c228c5de59aa.jpg?v=1565190960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 Stems</li>
+<li>Call for current price. </li>
+<li>Currently out of stock.</li>
+<li>SKU MONSTERA SMALL</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1989161418818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>MONSTERA SMALL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1989161189442</id>
+    <published>2019-08-07T09:15:17-06:00</published>
+    <updated>2019-08-07T09:15:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/monstera-1"/>
+    <title>Monstera</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-mmon_cd72ef06-ba03-46ee-8bb7-48ee22babb9a.jpg?v=1565190918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5 Stems</li>
+<li>Call for current price. </li>
+<li>Currently out of stock.</li>
+<li>SKU MONSTERA MEDIUM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1989161189442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>MONSTERA MEDIUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1989160435778</id>
+    <published>2019-08-07T09:10:17-06:00</published>
+    <updated>2019-08-07T09:10:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/acordeon-palm"/>
+    <title>Acordeon Palm</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Attachment-3_006.jpeg?v=1565190802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 stems per bunch</li>
+<li>Call for current price. </li>
+<li>Currently out of stock.</li>
+<li>SKU ACORDEON</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1989160435778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ACORDEON</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1989158928450</id>
+    <published>2019-08-07T08:58:40-06:00</published>
+    <updated>2019-08-07T08:58:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/calathea"/>
+    <title>Calathea</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-bc.jpg?v=1565190613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 stems per bunch</li>
+<li>Call for current price. </li>
+<li>Assorted varieties</li>
+<li>Currently out of stock.</li>
+<li>SKU CALATHEA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1989158928450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CALATHEA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1989154603074</id>
+    <published>2019-08-07T08:56:43-06:00</published>
+    <updated>2019-08-07T08:56:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/cataractarum-palm"/>
+    <title>Cataractarum Palm</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/cat.jpg?v=1565189909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>70 cm </li>
+<li>10 stems per bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU CATPALM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1989154603074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CATPALM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966805680194</id>
+    <published>2019-07-24T11:14:43-06:00</published>
+    <updated>2019-07-24T11:14:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/sprengerii"/>
+    <title>Sprengerii</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/sprengerii.jpg?v=1563988606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>asparagus sprengerii</li>
+<li>per bunch</li>
+<li>Call for current price. </li>
+<li>Currently out of stock.</li>
+<li>SKU SPRENGERII</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966805680194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SPRENGERII</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966784184386</id>
+    <published>2019-07-24T10:54:23-06:00</published>
+    <updated>2019-07-24T10:54:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/salal-tips-1"/>
+    <title>Salal Tips</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-salt_88de256d-6316-4ef3-9b5a-7a66bf5aa2af.jpg?v=1563987264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU SALALTIPS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966784184386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SALALTIPS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966762623042</id>
+    <published>2019-07-24T10:17:49-06:00</published>
+    <updated>2019-07-24T10:17:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/podocarpus"/>
+    <title>Podocarpus</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/podocarpus.jpg?v=1563985148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>10 Stems</li>
+<li>Call for current price.</li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU PODOCARPUS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966762623042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>PODOCARPUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966761574466</id>
+    <published>2019-07-24T10:05:08-06:00</published>
+    <updated>2019-07-24T10:05:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/plumosus"/>
+    <title>Plumosus</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/plumosus.jpg?v=1563984999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>asparagus plumosus</li>
+<li>per bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU PLUMOSUS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966761574466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>PLUMOSUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966750564418</id>
+    <published>2019-07-24T09:51:11-06:00</published>
+    <updated>2019-07-24T09:51:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/ming-fern"/>
+    <title>Ming Fern</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ming.jpg?v=1563983684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>per bunch</li>
+<li>Call for current price. </li>
+<li>SKU MING</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966750564418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1966738309186</id>
+    <published>2019-07-24T09:30:20-06:00</published>
+    <updated>2019-07-24T09:30:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/foxtail-fern"/>
+    <title>Foxtail Fern</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/foxtail.jpg?v=1563982453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>per bunch</li>
+<li>Call for current price. </li>
+<li>Currently out of stock.</li>
+<li>SKU FOXTAIL</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1966738309186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>FOXTAIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1963645108290</id>
+    <published>2019-07-22T15:16:56-06:00</published>
+    <updated>2019-07-22T15:16:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/boxwood"/>
+    <title>Boxwood</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/boxwood.jpg?v=1563830281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>by the bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU BOXWOOD</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1963645108290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>BOXWOOD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1963644944450</id>
+    <published>2019-07-22T15:12:54-06:00</published>
+    <updated>2019-07-22T15:12:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/madrona"/>
+    <title>Madrona</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/madrona.jpg?v=1563830199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>by the bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU MADRONA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1963644944450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>MADRONA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1950571855938</id>
+    <published>2019-07-13T08:30:25-06:00</published>
+    <updated>2019-07-13T08:30:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/dusty-miller"/>
+    <title>Dusty Miller</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/dusty_miller.jpg?v=1563028365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5 stem bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available.</li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU DUSTYMILLER</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1950571855938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DUSTYMILLER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1935226241090</id>
+    <published>2019-07-01T09:26:07-06:00</published>
+    <updated>2019-07-01T09:26:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/curly-willow-medium"/>
+    <title>Curly Willow Medium</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/p-bulk-cwt_7e551fb8-cb5e-4012-83d2-52a461f910ba.jpg?v=1561994767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Up to 10 Stems</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available. </li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU CWT</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1935226241090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CWT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1924859396162</id>
+    <published>2019-06-23T08:39:27-06:00</published>
+    <updated>2019-06-23T08:39:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/skimmia"/>
+    <title>Skimmia</title>
+    <s:type>Fresh Greens</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/skimmia.jpg?v=1561300878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Fresh Greens<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced per bunch</li>
+<li>Call for current price. </li>
+<li>Call to confirm quantities available. </li>
+<li>Call to confirm Calgary pick-up or delivery.</li>
+<li>SKU SKIMMIA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Greens</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1924859396162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SKIMMIA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

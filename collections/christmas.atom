@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amazingfloralwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amazingfloralwholesale.ca/collections/christmas.atom"/>
+  <title>Amazing Floral Wholesale Ltd.</title>
+  <updated>2021-07-23T11:00:27-06:00</updated>
+  <author>
+    <name>Amazing Floral Wholesale Ltd.</name>
+  </author>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6614474227778</id>
+    <published>2021-07-23T11:00:27-06:00</published>
+    <updated>2021-07-23T11:00:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/berry-branch-pick-red"/>
+    <title>Berry Branch Pick - Red</title>
+    <s:type>Floral Supplies</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/K81016.jpg?v=1627059673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Floral Supplies<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>on 50 cm stick<br>
+</li>
+<li>Priced each</li>
+<li>SKU K81016</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Pick</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6614474227778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku>K81016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6585997000770</id>
+    <published>2021-05-29T09:19:14-06:00</published>
+    <updated>2021-05-29T09:19:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/3-x-9-patrician-red-pillar-candles"/>
+    <title>3&quot; x 9&quot; Patrician Red Pillar Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3x9pillar.jpg?v=1622301591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            9.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>Smokeless, Dripless</li>
+<li>Picture for size only</li>
+<li>SKU 3" x 9" Pillar Red<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6585997000770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.15</s:price>
+      <s:sku>3&quot; x 9&quot; Pillar Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6585996476482</id>
+    <published>2021-05-29T09:16:18-06:00</published>
+    <updated>2021-05-29T09:16:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/3-x-6-patrician-ivory-pillar-candles"/>
+    <title>3&quot; x 6&quot; Patrician Ivory Pillar Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3x6pillar.jpg?v=1622301430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>Smokeless, Dripless</li>
+<li>Also available in red and white</li>
+<li>SKU 3" x 6" Pillar White</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6585996476482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>3&quot; x 6&quot; Pillar White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6585993855042</id>
+    <published>2021-05-29T08:59:41-06:00</published>
+    <updated>2021-05-29T08:59:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/2-x-6-patrician-white-pillar-candles"/>
+    <title>2&quot; x 6&quot; Patrician White Pillar Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/2x6pillar.jpg?v=1622301333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            5.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>Smokeless, Dripless</li>
+<li>Also available in red</li>
+<li>SKU 2" x 6" Pillar White</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6585993855042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.15</s:price>
+      <s:sku>2&quot; x 6&quot; Pillar White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584553078850</id>
+    <published>2021-05-25T16:05:34-06:00</published>
+    <updated>2021-05-25T16:05:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/ginger-brown-sleigh-basket-w-red-accents"/>
+    <title>Ginger Brown Sleigh Basket w/Red Accents</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/1920nr.jpg?v=1621980335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            4.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>9" x 5.375" x 5.5"</li>
+<li>With Hard Liner</li>
+<li>Priced each</li>
+<li>SKU 1920NR</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584553078850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku>1920NR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584451465282</id>
+    <published>2021-05-25T12:03:12-06:00</published>
+    <updated>2021-05-25T12:03:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-9-x-4-33-glazed-white-snowflake-dolomite-container"/>
+    <title>5.9&quot; x 4.33&quot; Glazed White Snowflake Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce02sfw.jpg?v=1621966019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE02SFW</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584451465282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>CE02SFW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584450187330</id>
+    <published>2021-05-25T11:59:31-06:00</published>
+    <updated>2021-05-25T11:59:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-3-x-4-3-white-grey-nordic-dolomite-container"/>
+    <title>5.3&quot; x 4.3&quot; White/Grey Nordic Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce00-897.jpg?v=1621965708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            5.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-897</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584450187330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.80</s:price>
+      <s:sku>CE00-897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584449040450</id>
+    <published>2021-05-25T11:55:14-06:00</published>
+    <updated>2021-05-25T11:55:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-7-x-4-3-reindeer-w-trees-white-glazed-dolomite-container"/>
+    <title>4.7&quot; x 4.3&quot; Reindeer W/Trees White Glazed Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce00-878.jpg?v=1621965482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            4.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-878</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584449040450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.89</s:price>
+      <s:sku>CE00-878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584445337666</id>
+    <published>2021-05-25T11:39:38-06:00</published>
+    <updated>2021-05-25T11:39:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/penguin-dolomite-container"/>
+    <title>Penguin Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce00-871.jpg?v=1621964652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-size: 1.4em;">5.7" x 4.3"</span></li>
+<li><span style="font-size: 1.4em;">Priced each</span></li>
+<li><span style="font-size: 1.4em;">SKU CE00-871</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584445337666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>CE00-871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584444715074</id>
+    <published>2021-05-25T11:36:32-06:00</published>
+    <updated>2021-05-25T11:36:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/reindeer-novelty-dolomite-container"/>
+    <title>Reindeer Novelty Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce44rd.jpg?v=1621964324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-size: 1.4em;">5.11" x 3.54" x 4.68"</span></li>
+<li><span style="font-size: 1.4em;">Priced each</span></li>
+<li><span style="font-size: 1.4em;">SKU CE44RD</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584444715074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.85</s:price>
+      <s:sku>CE44RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584442519618</id>
+    <published>2021-05-25T11:27:08-06:00</published>
+    <updated>2021-05-25T11:27:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/copy-of-4-7-x-4-3-let-it-snow-penguin-snowman-dolomite-container"/>
+    <title>4.7&quot; x 4.3&quot; Santa Moustache Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/CE00-877.jpg?v=1621963955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-877</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584442519618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CE00-877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584441602114</id>
+    <published>2021-05-25T11:23:30-06:00</published>
+    <updated>2021-05-25T11:23:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-7-x-4-6-reindeer-w-antlers-dolomite-container"/>
+    <title>4.7&quot; x 4.6&quot; Reindeer w/Antlers Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ceoo-870.jpg?v=1621963523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-870</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584441602114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CE00-870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584439832642</id>
+    <published>2021-05-25T11:18:05-06:00</published>
+    <updated>2021-05-25T11:18:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-7-x-4-3-merry-christmas-sloth-dolomite-container"/>
+    <title>4.7&quot; x 4.3&quot; Merry Christmas Sloth Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce00-869.jpg?v=1621963186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-869</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584439832642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>CE00-869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584439570498</id>
+    <published>2021-05-25T11:17:24-06:00</published>
+    <updated>2021-05-25T11:17:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-7-x-4-3-let-it-snow-penguin-snowman-dolomite-container"/>
+    <title>4.7&quot; x 4.3&quot; Let It Snow Penguin Snowman Dolomite Container</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce00-868.jpg?v=1621963046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fits 4" pot</li>
+<li>Priced each</li>
+<li>SKU CE00-868</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584439570498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>CE00-868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6584435277890</id>
+    <published>2021-05-25T11:03:06-06:00</published>
+    <updated>2021-05-25T11:03:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/glass-chimney-clear"/>
+    <title>Glass Chimney, Clear</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/n3701clr.jpg?v=1621962187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            6.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>9.5" T</li>
+<li>3" OP</li>
+<li>Recycled glass</li>
+<li>Priced each</li>
+<li>SKU N3701CLR</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6584435277890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.35</s:price>
+      <s:sku>N3701CLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6542368538690</id>
+    <published>2021-03-10T14:50:20-07:00</published>
+    <updated>2021-03-10T14:50:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/birch-branches-white-frost"/>
+    <title>Birch Branches White Frost</title>
+    <s:type>Silks &amp; Drieds</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/03789.jpg?v=1615413165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Silks &amp; Drieds<br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3-4 foot</li>
+<li>Per package</li>
+<li>SKU 03789</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Silks &amp; Drieds</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6542368538690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku>03789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4698914521154</id>
+    <published>2020-10-04T12:30:20-06:00</published>
+    <updated>2020-10-04T12:30:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/white-sitting-angel-assorted"/>
+    <title>White Sitting Angel Assorted</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/901304.jpg?v=1601836278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Beautiful addition to sympathy or Christmas arrangement</li>
+<li>Priced each</li>
+<li>SKU 901304</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Angel</s:tag>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Funeral</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4698914521154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>901304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4698914455618</id>
+    <published>2020-10-04T12:29:55-06:00</published>
+    <updated>2020-10-04T12:29:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/white-angel-statue"/>
+    <title>White Angel Statue</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/DL1895.jpg?v=1601836195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Beautiful addition to sympathy arrangement</li>
+<li>Priced each</li>
+<li>SKU DL1895</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Angel</s:tag>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Funeral</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4698914455618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>DL 1895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4693835546690</id>
+    <published>2020-09-25T11:31:01-06:00</published>
+    <updated>2020-09-25T11:31:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/madison-winter-greens-pick"/>
+    <title>Madison Winter Greens Pick</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/224077GRN.jpg?v=1601055062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Assorted greens and pine cones</li>
+<li>SKU 224077GRN</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Silks</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4693835546690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>224077GRN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4439482531906</id>
+    <published>2020-01-23T12:28:32-07:00</published>
+    <updated>2020-01-23T12:28:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-x-5-cylinder-rose-gold"/>
+    <title>5&quot; x 5&quot; Cylinder-Rose Gold</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3262-12-822_1.jpg?v=1579807754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>great for parties &amp; events</li>
+<li>good use as a candle holder</li>
+<li>lends itself well as a centrepiece</li>
+<li>Great for parties &amp; events</li>
+<li>Great for candles</li>
+<li>Perfect as a centrepiece</li>
+<li>Priced each</li>
+<li>SKU 3262-12-822</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4439482531906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku>3262-12-822</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4439480827970</id>
+    <published>2020-01-23T12:26:27-07:00</published>
+    <updated>2020-01-23T12:26:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-x-5-cylinder-cobalt"/>
+    <title>5&quot; x 5&quot; Cylinder -Cobalt</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3262-12-60_1.jpg?v=1579807631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>great for parties &amp; events</li>
+<li>good use as a candle holder</li>
+<li>lends itself well as a centrepiece</li>
+<li>Great for parties &amp; events</li>
+<li>Great for candles</li>
+<li>Perfect as a centrepiece</li>
+<li>Priced each</li>
+<li>SKU 3262-12-60</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4439480827970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku>3262-12-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4439478763586</id>
+    <published>2020-01-23T12:23:08-07:00</published>
+    <updated>2020-01-23T12:23:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-x-5-cylinder-white"/>
+    <title>5&quot; x 5&quot; Cylinder -White</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3262-12-22_1.jpg?v=1579807531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            7.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>great for parties &amp; events</li>
+<li>good use as a candle holder</li>
+<li>lends itself well as a centrepiece</li>
+<li>Great for parties &amp; events</li>
+<li>Great for candles</li>
+<li>Perfect as a centrepiece</li>
+<li>Priced each</li>
+<li>SKU 3262-12-22</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4439478763586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.10</s:price>
+      <s:sku>3262-12-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4439472144450</id>
+    <published>2020-01-23T12:15:43-07:00</published>
+    <updated>2020-01-23T12:15:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-x-5-cylinder-black"/>
+    <title>5&quot; x 5&quot; Cylinder - Black</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3262-12-04_1.jpg?v=1579807354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>great for parties &amp; events</li>
+<li>good use as a candle holder</li>
+<li>lends itself well as a centrepiece</li>
+<li>Great for parties &amp; events</li>
+<li>Great for candles</li>
+<li>Perfect as a centrepiece</li>
+<li>Priced each</li>
+<li>SKU 3262-12-04</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4439472144450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku>3262-12-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4396428984386</id>
+    <published>2019-12-06T14:18:52-07:00</published>
+    <updated>2019-12-06T14:18:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/bisque-resin-praying-angel"/>
+    <title>Bisque Resin Praying Angel</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Attachment-23_002.jpg?v=1575668659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            12.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>8" Tall</li>
+<li>Priced each</li>
+<li>SKU R5481</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Funeral</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4396428984386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.65</s:price>
+      <s:sku>R5481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4396426887234</id>
+    <published>2019-12-06T14:18:52-07:00</published>
+    <updated>2019-12-06T14:18:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/rectangular-christmas-metal-with-wood-rim-planter"/>
+    <title>Rectangular Christmas Metal with Wood Rim Planter</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Attachment-18_003.jpg?v=1575668414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            7.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Assorted red and green</li>
+<li>9" length</li>
+<li>Price Each</li>
+<li>SKU M5148</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4396426887234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.85</s:price>
+      <s:sku>M5148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

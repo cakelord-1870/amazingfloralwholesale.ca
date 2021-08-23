@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amazingfloralwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amazingfloralwholesale.ca/collections/under-3.atom"/>
+  <title>Amazing Floral Wholesale Ltd.</title>
+  <updated>2021-03-12T12:34:31-07:00</updated>
+  <author>
+    <name>Amazing Floral Wholesale Ltd.</name>
+  </author>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6544176808002</id>
+    <published>2021-03-12T12:34:31-07:00</published>
+    <updated>2021-03-12T12:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-75-x-4-75-asst-clear-colours-glass-cube-vase"/>
+    <title>4.75&quot; x 4.75&quot; Asst Clear Colours Glass Cube Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gl412ast.jpg?v=1615577946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Heavy rim</li>
+<li>Assorted Colours </li>
+<li>Priced Each</li>
+<li>SKU GL412AST<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6544176808002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>GL412AST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4766205804610</id>
+    <published>2021-01-12T15:49:25-07:00</published>
+    <updated>2021-01-12T15:49:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-cobalt-utility-glass-vase"/>
+    <title>8&quot; Cobalt Utility Glass Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/GL403CO.jpg?v=1610491779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU GL403CO</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4766205804610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>GL403CO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4698939162690</id>
+    <published>2020-10-04T13:56:57-06:00</published>
+    <updated>2020-10-04T13:56:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-candy-dish-holiday-collection"/>
+    <title>6&quot; Candy Dish/Holiday Collection</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/DL100.jpg?v=1601841461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Deep water reservoir to keep flowers hydrated and fresh</li>
+<li>Ideal for floral foam arrangements</li>
+<li>48 per case<br>
+</li>
+<li>Priced each</li>
+<li>SKU DL 100</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4698939162690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>DL 100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4176345530434</id>
+    <published>2019-10-03T05:42:32-06:00</published>
+    <updated>2019-10-03T05:42:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-3-4-cinch-vase"/>
+    <title>6 3/4&quot; Cinch Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/45_30004_HR.jpg?v=1570103162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>• 6-3/4" H x 3" Opening</span></li>
+<li><span>• 12 to a Case</span></li>
+<li><span>• Designed for a half dozen stem bouquet</span></li>
+<li><span>Made in the U.S.A.</span></li>
+<li><span>SKU 45-30004</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4176345530434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.15</s:price>
+      <s:sku>45-30004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/4099270279234</id>
+    <published>2019-09-18T13:09:07-06:00</published>
+    <updated>2019-09-18T13:09:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-3-4-x-7-8-3-4-h-ruby-glass-patterned-vase"/>
+    <title>4 3/4&quot; x 7.8 3/4&quot; &quot;H Ruby Glass Patterned Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/GL402R.jpeg?v=1568841107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 1/2" opening</li>
+<li>Priced each</li>
+<li>SKU GL402R</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/4099270279234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.74</s:price>
+      <s:sku>GL402R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/3421372710978</id>
+    <published>2019-09-14T14:09:25-06:00</published>
+    <updated>2019-09-14T14:09:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-1-2-jardin-vintage-jar-crystal"/>
+    <title>6 1/2&quot; Jardin Vintage Jar - Crystal</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3293-24-09_1.jpg?v=1568491821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great for parties and events.</li>
+<li>Perfect for flowers and other miscellaneous items.</li>
+<li>Works nicely as a home decor piece.</li>
+<li>SKU 3293/24-09</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Value</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/3421372710978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku>3293-24-09</s:sku>
+      <s:grams>11285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1977685114946</id>
+    <published>2019-07-31T09:27:05-06:00</published>
+    <updated>2019-07-31T09:27:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-rosie-posie-square-crystal"/>
+    <title>4&quot; Rosie Posie Square - Crystal</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/32750.JPG?v=1564586871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU 3275-12-09</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1977685114946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>3275-12-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1896837972034</id>
+    <published>2019-05-30T12:36:37-06:00</published>
+    <updated>2019-05-30T12:36:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-1-2-cafe-collection-vases"/>
+    <title>5 1/2&quot; Cafe Collection Vases</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3200-24-09_1.jpg?v=1559241547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great for parties, weddings and events.</li>
+<li>Perfect when used as a centerpiece.</li>
+<li>Works nicely as a home decor piece.</li>
+<li>Use as a jar, vase, or terrarium</li>
+<li>Great for parties &amp; events</li>
+<li>Perfect for a gift</li>
+<li>30F-24C-3</li>
+<li>SKU 3200-24-09</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Value</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1896837972034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.68</s:price>
+      <s:sku>3200-24-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1881782714434</id>
+    <published>2019-05-17T14:44:17-06:00</published>
+    <updated>2019-05-17T14:44:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-gathering-vase-crystal"/>
+    <title>8&quot; Gathering Vase - Crystal</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/4940-12-09_1.jpg?v=1558125989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Popular Gathering Design</li>
+<li>High Quality Syndicate Glass</li>
+<li>Wonderful Garden Vase</li>
+<li>Clear glass favorites</li>
+<li>Multi-use features</li>
+<li>Crafted from recycled materials</li>
+<li>SKU <span>4940-12-09</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1881782714434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>4940-12-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1853706993730</id>
+    <published>2019-04-27T13:17:07-06:00</published>
+    <updated>2019-04-27T13:17:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-1-2-jardin-vintage-jar-orchard-harvest"/>
+    <title>6 1/2&quot; Jardin Vintage Jar - Orchard Harvest</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3293-24-1090_1.jpg?v=1556392737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great for parties and events.</li>
+<li>Perfect for flowers and other miscellaneous items.</li>
+<li>Works nicely as a home decor piece.</li>
+<li>Priced each</li>
+<li>SKU <span>3293-24-1090</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1853706993730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku>3293-24-1090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1853610819650</id>
+    <published>2019-04-27T13:07:10-06:00</published>
+    <updated>2019-04-27T13:07:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/vintage-bottle-collection-large"/>
+    <title>Vintage Bottle Collection - Large</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture.JPG?v=1556392052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>24 per case</li>
+<li>6 assorted styles</li>
+<li>Priced each</li>
+<li>32B-24C-1</li>
+<li>SKU 3249-24-432</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special Events</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1853610819650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku>3249-24-432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1853605085250</id>
+    <published>2019-04-27T13:01:26-06:00</published>
+    <updated>2019-04-27T13:01:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/vintage-bottle-collection-small"/>
+    <title>Vintage Bottle Collection - Small</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Capture2.JPG?v=1556392014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>24 per case</li>
+<li>6 assorted styles</li>
+<li>Priced each</li>
+<li>31F-24C-4</li>
+<li>SKU 3247-24-432</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Special Events</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1853605085250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.82</s:price>
+      <s:sku>3247-24-432</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1839234875458</id>
+    <published>2019-04-21T08:23:45-06:00</published>
+    <updated>2019-04-21T08:23:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-1-2-jardin-vintage-jar-3"/>
+    <title>6 1/2&quot; Jardin Vintage Jar</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3293-24-424_1.jpg?v=1555856674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great for parties and events.</li>
+<li>Perfect for flowers and other miscellaneous items.</li>
+<li>Works nicely as a home decor piece.</li>
+<li>31F-24C-1</li>
+<li>SKU 3293-24-424</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Value</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1839234875458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku>3293-24-424</s:sku>
+      <s:grams>11285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1754395836482</id>
+    <published>2019-02-21T11:17:00-07:00</published>
+    <updated>2019-02-21T11:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-clear-glass-utility-gathering-vase"/>
+    <title>8&quot; Clear Glass Utility Gathering Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gl426clr.jpg?v=1618685213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU GL426CLR</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1754395836482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>GL426CLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1743593537602</id>
+    <published>2019-02-09T08:25:54-07:00</published>
+    <updated>2019-02-09T08:25:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-4-clear-glass-bud-vase"/>
+    <title>5.4&quot; Clear Glass Bud Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/gl360clr_14928b38-8c90-4dd3-9745-38e53effd1f2.jpg?v=1622304000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>2.8" D x 5.4" H</li>
+<li>24 per case</li>
+<li>Priced each</li>
+<li>SKU GL360CLR</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1743593537602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>GL360CLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1715041435714</id>
+    <published>2018-12-27T13:18:52-07:00</published>
+    <updated>2018-12-27T13:18:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/cube-votive"/>
+    <title>Cube Votive</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/5475C_HR.jpg?v=1545942099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>• 3-3/8"H, 3-1/2" opening </li>
+<li>• 12 per case</li>
+<li>Priced each</li>
+<li>26F-12C-14</li>
+<li>SKU 5475C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1715041435714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.74</s:price>
+      <s:sku>5475C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1698192916546</id>
+    <published>2018-11-28T16:40:01-07:00</published>
+    <updated>2018-11-28T16:40:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-3-8-vibe-vase-icicle-assortment"/>
+    <title>6 3/8&quot; Vibe Vase - Icicle Assortment</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/Syndicate_Winter.jpg?v=1543448683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3" opening</li>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU 4118-12-484</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1698192916546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>4118-12-484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1698180038722</id>
+    <published>2018-11-28T15:51:46-07:00</published>
+    <updated>2018-11-28T15:51:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-ginger-vase"/>
+    <title>5&quot; Ginger Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/C950_1.jpg?v=1543446363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Petite size</li>
+<li>Cash and carry design</li>
+<li>Easy to add trim on the neck</li>
+<li>Classic shape</li>
+<li>Large water reservoir</li>
+<li>Easy to transport</li>
+<li>Crafted from recycled materials</li>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU C950</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1698180038722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>C950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1688056332354</id>
+    <published>2018-11-16T15:55:11-07:00</published>
+    <updated>2018-11-16T15:55:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/8-1-2-dot-dash-bud-vase-trio"/>
+    <title>8 1/2&quot; Dot-Dash Bud Vase Trio</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/4098-24-09_1.jpg?v=1542409060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Perfect for a few stems.</li>
+<li>Weighted base.</li>
+<li>Perfect for all occasions</li>
+<li>24 per case</li>
+<li>Priced each</li>
+<li>SKU 4098-24-09/N4098</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1688056332354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>4098-24-09/N4098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1654028566594</id>
+    <published>2018-10-17T15:54:17-06:00</published>
+    <updated>2018-10-17T15:54:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-1-2-fluted-ivy-bowl"/>
+    <title>5 1/2&quot; Fluted Ivy Bowl</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/C922_1_1.jpg?v=1539813381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fluted edge</li>
+<li>Single rose</li>
+<li>Cash and carry designs</li>
+<li>Priced each</li>
+<li>SKU <span>C922</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1654028566594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>C922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1653885141058</id>
+    <published>2018-10-17T15:33:59-06:00</published>
+    <updated>2018-10-17T15:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-1-2-jardin-vintage-jar-assorted"/>
+    <title>6 1/2&quot; Jardin Vintage Jar - Assorted</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3293-24-429_1.jpg?v=1539812161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great for parties and events.</li>
+<li>Perfect for flowers and other miscellaneous items.</li>
+<li>Works nicely as a home decor piece.</li>
+<li>Priced each</li>
+<li>30F-24C-5</li>
+<li>SKU <span>3293-24-429</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1653885141058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.20</s:price>
+      <s:sku>3293-24-429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1632925581378</id>
+    <published>2018-10-05T17:16:52-06:00</published>
+    <updated>2018-10-05T17:16:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/7-1-2-elite-bud-vase"/>
+    <title>7-1/2&quot; Elite Bud Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/2854C_HR.jpg?v=1538781483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>7-1/2"H, 1-3/4" opening</li>
+<li>12 per case</li>
+<li>SKU 2854C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1632925581378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.54</s:price>
+      <s:sku>2854C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1620058669122</id>
+    <published>2018-09-28T09:18:03-06:00</published>
+    <updated>2018-09-28T09:18:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/7-1-2-bud-vase"/>
+    <title>7 1/2&quot; BUD VASE</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/24-24-09_1.jpg?v=1538148336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            1.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Affordability &amp; versatility</li>
+<li>Durable waterproof plastic</li>
+<li>Great for any occasion Classic shape &amp; modern colour</li>
+<li>Durable Syndicate plastic</li>
+<li>Crafted from recycled material</li>
+<li>24 per case</li>
+<li>Priced each</li>
+<li>SKU 24-24-09</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1620058669122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.92</s:price>
+      <s:sku>24-24-09</s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1618994036802</id>
+    <published>2018-09-27T16:35:11-06:00</published>
+    <updated>2018-09-27T16:35:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x-6-glass-cylinder-crystal"/>
+    <title>4&quot; x 6&quot; Glass Cylinder - Crystal</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/5440-12-09_1.jpg?v=1538087856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Clear glass cylinder</li>
+<li>12 per case</li>
+<li>Priced each</li>
+<li>SKU 5440-12-09</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Cylinder</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1618994036802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>5440-12-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/1617126981698</id>
+    <published>2018-09-25T08:18:06-06:00</published>
+    <updated>2018-09-25T08:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/fluted-ivy-bowl-clear-glass"/>
+    <title>Fluted Ivy Bowl - Clear Glass</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/C922_1.jpg?v=1537885375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            2.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4.75" x 5.25" with ruffled rim</p>
+<p>36 to case</p>
+<p>Priced each</p>
+<p>SKU GL530CLR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/1617126981698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.42</s:price>
+      <s:sku>GL530CLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amazingfloralwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amazingfloralwholesale.ca/collections/all.atom"/>
+  <title>Amazing Floral Wholesale Ltd.</title>
+  <updated>2021-08-16T07:27:16-06:00</updated>
+  <author>
+    <name>Amazing Floral Wholesale Ltd.</name>
+  </author>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628043718722</id>
+    <published>2021-08-16T07:27:16-06:00</published>
+    <updated>2021-08-16T07:27:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/white-metallic-finish-flower-bucket"/>
+    <title>White Metallic Finish Flower Bucket</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/GA2060WH.jpg?v=1629120476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            14.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>7.5" x 13"</li>
+<li>Priced each</li>
+<li>SKU GA2060WH</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628043718722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.35</s:price>
+      <s:sku>GA2060WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628043522114</id>
+    <published>2021-08-16T07:25:35-06:00</published>
+    <updated>2021-08-16T07:25:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-4-x6-4h-black-ceramic-pot"/>
+    <title>6.4&quot; x6 4&quot;H Black Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce945-156.jpg?v=1629120355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            9.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE945-156</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628043522114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.55</s:price>
+      <s:sku>CE945-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628042473538</id>
+    <published>2021-08-16T07:24:30-06:00</published>
+    <updated>2021-08-16T07:24:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/6-4-x6-4h-white-ceramic-pot"/>
+    <title>6.4&quot; x6 4&quot;H White Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce945-155.jpg?v=1629120315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            9.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE945-155</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628042473538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.55</s:price>
+      <s:sku>CE945-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628042244162</id>
+    <published>2021-08-16T07:23:19-06:00</published>
+    <updated>2021-08-16T07:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x6-8h-matte-black-ceramic-pot"/>
+    <title>4&quot; x6.8&quot;H Matte Black Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce94-156.jpg?v=1629120225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE94-156</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628042244162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku>CE94-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6628041621570</id>
+    <published>2021-08-16T07:21:26-06:00</published>
+    <updated>2021-08-16T07:21:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/4-x6-8h-matte-white-ceramic-pot"/>
+    <title>4&quot; x6.8&quot;H Matte White Ceramic Pot</title>
+    <s:type>Containers</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/ce94-155.jpg?v=1629120149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Containers<br>
+        <strong>Price: </strong>
+            6.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU CE94-155</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Container</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6628041621570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.65</s:price>
+      <s:sku>CE94-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6625135984706</id>
+    <published>2021-08-11T07:35:54-06:00</published>
+    <updated>2021-08-11T07:35:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/kraft-paper-shopping-bags"/>
+    <title>Kraft Paper Shopping Bags</title>
+    <s:type>Floral Supplies</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/S-7636.jpg?v=1628689064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Floral Supplies<br>
+        <strong>Price: </strong>
+            14.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>5 1/2" x 3 1/4" x 8 3/8"<br>
+</li>
+<li>Handle</li>
+<li>25 bags</li>
+<li>SKU S-7636</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6625135984706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.85</s:price>
+      <s:sku>S-7636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6625135231042</id>
+    <published>2021-08-11T07:32:48-06:00</published>
+    <updated>2021-08-11T07:32:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/poly-bags-5-x-3-x-10"/>
+    <title>Poly Bags 5 x 3 x 10&quot;</title>
+    <s:type>Floral Supplies</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/S-17684.jpg?v=1628688913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Floral Supplies<br>
+        <strong>Price: </strong>
+            4.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>1 mil</li>
+<li>100 bags</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6625135231042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>S-16566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617961300034</id>
+    <published>2021-07-29T09:39:34-06:00</published>
+    <updated>2021-07-29T09:39:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/oasis-foam-6-cylinder"/>
+    <title>OASIS Foam #6 Cylinder</title>
+    <s:type>Floral Supplies</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/3210.jpg?v=1627573175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Floral Supplies<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU 3210﻿</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Foam</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617961300034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.45</s:price>
+      <s:sku>3210﻿</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617958481986</id>
+    <published>2021-07-29T09:31:05-06:00</published>
+    <updated>2021-07-29T09:31:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/grande-wedding-belle%C2%AE-bouquet-holder-white-slant-handle"/>
+    <title>Grande WEDDING BELLE® Bouquet Holder, White, Slant Handle</title>
+    <s:type>Wedding/Events</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/11-61770.jpg?v=1627572753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Wedding/Events<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cage filled with OASIS® Floral Foam Maxlife to provide a continuous water source for bouquets that live up to 50% longer than in any other design mechanic</li>
+<li>Rigid plastic construction supports the weight of flowers and allows a variety of bouquet designs</li>
+<li>Rounded cage optimizes depth and dimension to bouquets</li>
+<li>Features a waterproof, shatterproof plastic handle</li>
+<li>12 per box<br>
+</li>
+<li>SKU 11-61770</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617958481986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>11-61770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617957728322</id>
+    <published>2021-07-29T09:29:30-06:00</published>
+    <updated>2021-07-29T09:29:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/medium-wedding-belle-bouquet-holder-white-straight"/>
+    <title>Medium Wedding Belle Bouquet Holder White Straight</title>
+    <s:type>Wedding/Events</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/11-61730.jpg?v=1627572583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Wedding/Events<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU 11-61730</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617957728322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.10</s:price>
+      <s:sku>11-61730</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617957498946</id>
+    <published>2021-07-29T09:28:48-06:00</published>
+    <updated>2021-07-29T09:28:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/medium-wedding-belle-bouquet-holder-white-slant"/>
+    <title>Medium Wedding Belle Bouquet Holder White Slant</title>
+    <s:type>Wedding/Events</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/11-61710.jpg?v=1627572529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Wedding/Events<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Priced each</li>
+<li>SKU 11-61710</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617957498946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.10</s:price>
+      <s:sku>11-61710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617529679938</id>
+    <published>2021-07-28T14:39:19-06:00</published>
+    <updated>2021-07-28T14:39:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/9-single-face-satin-ribbon-white"/>
+    <title>#9 Single Face Satin Ribbon White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/568330_a804d22f-0dba-4f55-bdc4-dd9da7749c7d.jpg?v=1627504760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            21.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-000039</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617529679938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.35</s:price>
+      <s:sku>R-000039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617529221186</id>
+    <published>2021-07-28T14:38:02-06:00</published>
+    <updated>2021-07-28T14:38:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/40-single-face-satin-ribbon-white"/>
+    <title>#40 Single Face Satin Ribbon White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/568330_1ddf48c2-97d1-417a-9b61-a20b95f9ae6e.jpg?v=1627504700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>50 yards</li>
+<li>SKU R-000022</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617529221186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.65</s:price>
+      <s:sku>R-000022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617526730818</id>
+    <published>2021-07-28T14:30:24-06:00</published>
+    <updated>2021-07-28T14:30:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-single-face-satin-ribbon-white"/>
+    <title>#5 Single Face Satin Ribbon White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/568330_ac7a645b-53d0-4e25-88fc-916b8703a03e.jpg?v=1627504237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-572337</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617526730818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.90</s:price>
+      <s:sku>R-572337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617526599746</id>
+    <published>2021-07-28T14:29:24-06:00</published>
+    <updated>2021-07-28T14:29:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-single-face-satin-ribbon-ivory"/>
+    <title>#5 Single Face Satin Ribbon Ivory</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/414873_e7c2da13-588b-4216-9208-dce604c83789.jpg?v=1627504171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-573129</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617526599746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.90</s:price>
+      <s:sku>R-573129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617526239298</id>
+    <published>2021-07-28T14:27:49-06:00</published>
+    <updated>2021-07-28T14:27:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/5-single-face-satin-ribbon-pink"/>
+    <title>#5 Single Face Satin Ribbon Pink</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/572375.jpg?v=1627504077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-572375</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617526239298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.90</s:price>
+      <s:sku>R-572375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617526075458</id>
+    <published>2021-07-28T14:26:54-06:00</published>
+    <updated>2021-07-28T14:26:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/3-single-face-satin-ribbon-ivory"/>
+    <title>#3 Single Face Satin Ribbon Ivory</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/414873_2c0419ea-9dec-4d8a-a749-ab9d66c2cdd8.jpg?v=1627504020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            26.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-572047</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617526075458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.30</s:price>
+      <s:sku>R-572047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617525452866</id>
+    <published>2021-07-28T14:24:28-06:00</published>
+    <updated>2021-07-28T14:24:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/3-single-face-satin-ribbon-daffodil"/>
+    <title>#3 Single Face Satin Ribbon Daffodil</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/571934.jpg?v=1627503884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            26.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-571934</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617525452866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.30</s:price>
+      <s:sku>R-571934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617517948994</id>
+    <published>2021-07-28T13:58:58-06:00</published>
+    <updated>2021-07-28T13:58:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/1-single-face-satin-ribbon-black"/>
+    <title>#1 Single Face Satin Ribbon Black</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/569443.jpg?v=1627502395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            22.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-569443</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617517948994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.20</s:price>
+      <s:sku>R-569443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617517588546</id>
+    <published>2021-07-28T13:58:05-06:00</published>
+    <updated>2021-07-28T13:58:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/1-single-face-satin-ribbon-antique-white"/>
+    <title>#1 Single Face Satin Ribbon Antique White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/414873.jpg?v=1627502292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            20.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-414873</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617517588546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.15</s:price>
+      <s:sku>R-414873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617515851842</id>
+    <published>2021-07-28T13:49:07-06:00</published>
+    <updated>2021-07-28T13:49:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/1-single-face-satin-ribbon-white"/>
+    <title>#1 Single Face Satin Ribbon White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/568330.jpg?v=1627501805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            20.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100 yards</li>
+<li>SKU R-568330</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617515851842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.15</s:price>
+      <s:sku>R-568330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617514213442</id>
+    <published>2021-07-28T13:42:31-06:00</published>
+    <updated>2021-07-28T13:42:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/9-teagan-ribbon-antique-white"/>
+    <title>#9 Teagan Ribbon Antique White</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/254781.jpg?v=1627501429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            16.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>25 yards</li>
+<li>SKU R-254781</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617514213442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.85</s:price>
+      <s:sku>R-254781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617512149058</id>
+    <published>2021-07-28T13:35:49-06:00</published>
+    <updated>2021-07-28T13:35:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/9-teagan-ribbon-living-coral"/>
+    <title>#9 Teagan Ribbon Living Coral</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/300280.jpg?v=1627500979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            16.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>25 yards</li>
+<li>SKU R-300280</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617512149058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.85</s:price>
+      <s:sku>R-300280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617512083522</id>
+    <published>2021-07-28T13:35:32-06:00</published>
+    <updated>2021-07-28T13:35:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/9teagan-ribbon-living-coral"/>
+    <title>#9Teagan Ribbon Living Coral</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            10.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>25 yards</li>
+<li>SKU 239351</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617512083522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.85</s:price>
+      <s:sku>239351</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amazingfloralwholesale.ca/products/6617511624770</id>
+    <published>2021-07-28T13:32:25-06:00</published>
+    <updated>2021-07-28T13:32:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://amazingfloralwholesale.ca/products/9-galena-ribbon-rose-gold"/>
+    <title>#9 Galena Ribbon Rose Gold</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Amazing Floral Wholesale Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0029/5967/1362/products/328871_b771031f-c6db-4b7e-8b00-49a8db5d0433.jpg?v=1627500764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazing Floral Wholesale Ltd.<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            17.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><br></div>
+<ul>
+<li>25 yards</li>
+<li>SKU R-328918</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon</s:tag>
+    <s:tag>Sheer</s:tag>
+    <s:variant>
+      <id>https://amazingfloralwholesale.ca/products/6617511624770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku>R-328918</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
